@@ -1,0 +1,44 @@
+p{
+	color:red;
+}
+.id{
+	color:green;
+}
+#class{
+	color:violet;
+}
+h4{
+	background-color:red;
+}
+h4{
+	background-color:blue;
+}
+#a{
+	color:violet;
+}
+div#a{
+	color:red;
+}
+div[id=a]{
+	color:green;
+}
+h2{
+	background-color:green;
+}
+.b{
+	background-color:orange;
+}
+h3{
+	background-color:green !important;
+}
+.c{
+	background-color:orange;
+}
+#d{
+	background-color:violet;
+}
+h1{
+	color:	#800000;
+	text-decoration-line:underline;
+}
+
